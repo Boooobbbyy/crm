@@ -1,0 +1,18 @@
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+.demo {
+  margin-top: 1%;
+  padding: 4em 2em;
+}
+
+
+.demo .flipster {
+  margin: 0 -2em;
+ 
+}
+
